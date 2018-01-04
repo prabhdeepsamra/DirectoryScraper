@@ -63,7 +63,7 @@ while(getline(input2,line))
 					output2<<line[i];	
 					}
 				}
-			output2<< ",";
+			output2<< ","; 
 			}
 
 		if (linecount == 3)
@@ -80,6 +80,4 @@ while(getline(input2,line))
 			} 
 		}	
 }
-
-
 }
