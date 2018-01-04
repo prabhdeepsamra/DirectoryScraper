@@ -18,5 +18,4 @@ for i in range (0,26):
 			file.write(str(left))
 			file.write(str(right))
 			file.write("\n")
-
 file.close()
